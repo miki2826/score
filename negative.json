@@ -23,5 +23,11 @@
     "type": "phone",
     "value": "(212)555-4444",
     "score": 99
+  },
+   {
+    "type": "phone",
+    "value": "212-555-4444",
+    "score": 99
   }
+
 ]
