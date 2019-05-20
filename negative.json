@@ -1,0 +1,17 @@
+[
+  {
+    "type": "email",
+    "value": "tony@stark.com",
+    "score": 10
+  },
+   {
+    "type": "ip",
+    "value": "81.88.4.4",
+    "score": 70
+  },
+   {
+    "type": "zip",
+    "value": "60636",
+    "score": 95
+  }
+]
