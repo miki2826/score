@@ -13,5 +13,10 @@
     "type": "zip",
     "value": "60636",
     "score": 95
+  },
+   {
+    "type": "phone",
+    "value": "212-555-1234",
+    "score": 99
   }
 ]
