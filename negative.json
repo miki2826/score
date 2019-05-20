@@ -4,10 +4,15 @@
     "value": "tony@stark.com",
     "score": 10
   },
+  {
+    "type": "email",
+    "value": "7hor@asgard.net",
+    "score": 92
+  },
    {
     "type": "ip",
     "value": "81.88.4.4",
-    "score": 70
+    "score": 84
   },
    {
     "type": "zip",
@@ -16,7 +21,7 @@
   },
    {
     "type": "phone",
-    "value": "212-555-1234",
+    "value": "(212)555-4444",
     "score": 99
   }
 ]
